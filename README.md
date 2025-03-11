@@ -2,9 +2,10 @@
 <h1 align="center">Julien BOUVERET</h1>
 
 # 📌 A PROPOS
-- 🎓 Étudiant en **BTS CIEL** option **Informatique et Réseau**  
+- 🎓 Étudiant en BTS CIEL option Informatique et Réseau  
 - 🏫 [Lycée Jules Haag](https://www.google.com/maps/place/Lyc%C3%A9e+Jules+Haag/@47.2442429,6.0268493,17z/)  
-- ⚙️ Passionné d’**automatisme**
+- ⚙️ Passionné d’automatisme
+- 🖌️ Parfois je fais du dessin
 
 # 🛠️ OUTILS
 <p>
