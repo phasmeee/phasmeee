@@ -1,13 +1,9 @@
 <!--**phasmeee/phasmeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="center">Julien BOUVERET</h1>
-
-# 📌 A PROPOS
-- 🎓 Étudiant en BTS CIEL option Informatique et Réseau  
-- 🏫 [Lycée Jules Haag](https://www.google.com/maps/place/Lyc%C3%A9e+Jules+Haag/@47.2442429,6.0268493,17z/)  
-- ⚙️ Passionné d’automatisme
-- 🖌️ Parfois je fais du dessin
-
-# 🛠️ OUTILS
+<h1 align="center">phasmeee</h1>
+## about me
+- studying computer science
+- draw sometimes
+# what i know
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="80" height="80">
