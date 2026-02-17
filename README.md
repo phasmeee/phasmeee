@@ -1,7 +1,6 @@
 <!--**phasmeee/phasmeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">phasmeee</h1>
-
-Create/Automation
+<h2 align="center">Create/Automate</h2>
 
 ## about me
 - __studying computer science__
