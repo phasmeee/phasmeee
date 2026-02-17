@@ -2,10 +2,10 @@
 <h1 align="center">phasmeee</h1>
 
 ## about me
-- studying computer science
+- __studying computer science__
 - draw sometimes
 
-# what i know
+## what i know
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="80" height="80">
