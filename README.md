@@ -1,8 +1,10 @@
 <!--**phasmeee/phasmeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">phasmeee</h1>
+
 ## about me
 - studying computer science
 - draw sometimes
+
 # what i know
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80">
