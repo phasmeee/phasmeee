@@ -29,7 +29,7 @@
 - ⚡ Building small projects & experimenting  
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phasmeee&show_icons=true&theme=tokyonight" />
@@ -37,6 +37,7 @@
 </p>
 
 ---
+-->
 
 ## 🧩 Fun Fact
 > I like making things work automatically… sometimes too much 🤖
