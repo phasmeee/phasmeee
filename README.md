@@ -22,8 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70" style="margin: 0 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="70" height="70" style="margin: 0 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 0 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell/Bash" width="70" height="70" style="margin: 0 15px;"/>
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin: 0 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin: 0 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="70" height="70" style="margin: 0 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="70" height="70" style="margin: 0 15px;"/>
 </p>
 
 ---
@@ -52,7 +56,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=phasmeee&show_icons=true&theme=tokyonight&hide_border=true" alt="phasmeee's GitHub stats" />
+  <img src="https://github.readme-stats.shion.dev/api?username=phasmeee&show_icons=true&theme=tokyonight&hide_border=true" alt="phasmeee's GitHub stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=phasmeee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
