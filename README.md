@@ -56,8 +56,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github.readme-stats.shion.dev/api?username=phasmeee&show_icons=true&theme=tokyonight&hide_border=true" alt="phasmeee's GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=phasmeee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=phasmeee&theme=tokyonight&hide_border=true" alt="phasmeee's GitHub Streak" />
 </p>
 
 ---
