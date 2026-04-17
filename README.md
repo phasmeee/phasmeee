@@ -35,14 +35,6 @@
 
 ---
 
-## Learning On My Own
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 0 15px;"/>
-</p>
-
----
-
 ## Contact
 
 <p align="left">
