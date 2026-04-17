@@ -17,8 +17,6 @@
 
 ## Tech Stack
 
-## Tech Stack
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70" />&nbsp;&nbsp;&nbsp;&nbsp;
