@@ -51,9 +51,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=phasmeee&theme=tokyonight&hide_border=true" alt="phasmeee's GitHub Streak" />
 </p>
-
----
-
-<p align="center">
-  <i>“Build, break, learn, repeat.”</i>
-</p>
