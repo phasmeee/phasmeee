@@ -18,17 +18,9 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,py,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,asm,arduino,py,bash,js" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=html,css,php,mysql" />
-</p>
-
----
-
-## Learning On My Own
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" />
 </p>
 
 ---
