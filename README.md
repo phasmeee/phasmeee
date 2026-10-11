@@ -18,9 +18,11 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,asm,arduino,py,bash,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,py,bash,js" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=html,css,php,mysql" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Assembly_(RISC--V)-2D2D2D?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V Assembly" />
 </p>
 
 ---
